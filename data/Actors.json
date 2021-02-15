@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Song","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,4],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yi","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Song","characterIndex":0,"characterName":"Song","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Song","traits":[],"initialLevel":1,"maxLevel":99,"name":"Song","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Yi","characterIndex":0,"characterName":"Yi","classId":2,"equips":[2,1,2,3,4],"faceIndex":0,"faceName":"Yi","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yi","nickname":"","note":"","profile":""}
 ]
