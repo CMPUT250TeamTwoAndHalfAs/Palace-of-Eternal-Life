@@ -4,6 +4,6 @@ null,
 {"id":2,"expanded":false,"name":"Battle_Map","order":1,"parentId":0,"scrollX":543.5,"scrollY":356.5},
 {"id":3,"expanded":false,"name":"Temple","order":4,"parentId":0,"scrollX":543.5,"scrollY":356.5},
 null,
-{"id":5,"expanded":false,"name":"Bamboo Village","order":3,"parentId":0,"scrollX":543.5,"scrollY":352},
+{"id":5,"expanded":false,"name":"Bamboo Village","order":3,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":false,"name":"Sliding_Puzzle_Map","order":2,"parentId":0,"scrollX":819,"scrollY":461}
 ]
