@@ -3009,20 +3009,24 @@ Input.keyMapper = {
     32: 'ok',       // space
     33: 'pageup',   // pageup
     34: 'pagedown', // pagedown
-    37: 'left',     // left arrow
-    38: 'up',       // up arrow
-    39: 'right',    // right arrow
-    40: 'down',     // down arrow
+    //37: 'left',     // left arrow
+    //38: 'up',       // up arrow
+    //39: 'right',    // right arrow
+    //40: 'down',     // down arrow
     45: 'escape',   // insert
-    81: 'pageup',   // Q
-    87: 'pagedown', // W
+    //81: 'pageup',   // Q
+    //87: 'pagedown', // W
     88: 'escape',   // X
     90: 'ok',       // Z
     96: 'escape',   // numpad 0
-    98: 'down',     // numpad 2
-    100: 'left',    // numpad 4
-    102: 'right',   // numpad 6
-    104: 'up',      // numpad 8
+    //98: 'down',     // numpad 2
+    //100: 'left',    // numpad 4
+    //102: 'right',   // numpad 6
+    //104: 'up',      // numpad 8
+    83: 'down',     // S
+    65: 'left',    // A
+    68: 'right',   // D
+    87: 'up',      // W
     120: 'debug'    // F9
 };
 
