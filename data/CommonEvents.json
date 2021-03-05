@@ -1,7 +1,18 @@
 [
 null,
 {"id":1,"list":[{"code":231,"indent":0,"parameters":[1,"recipe",0,0,85,65,60,60,255,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Show Recipe","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":121,"indent":0,"parameters":[21,21,1]},{"code":121,"indent":0,"parameters":[22,22,1]},{"code":121,"indent":0,"parameters":[23,23,1]},{"code":121,"indent":0,"parameters":[24,24,1]},{"code":121,"indent":0,"parameters":[25,25,1]},{"code":121,"indent":0,"parameters":[26,26,1]},{"code":121,"indent":0,"parameters":[27,27,1]},{"code":121,"indent":0,"parameters":[28,28,1]},{"code":121,"indent":0,"parameters":[29,29,1]},{"code":121,"indent":0,"parameters":[30,30,1]},{"code":121,"indent":0,"parameters":[31,31,1]},{"code":0,"indent":0,"parameters":[]}],"name":"No Env Conversation","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":121,"indent":0,"parameters":[21,21,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Stone Conversation","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":121,"indent":0,"parameters":[22,22,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Road Sign Conversation","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":121,"indent":0,"parameters":[23,23,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Spirit Conversation","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":121,"indent":0,"parameters":[24,24,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Watermill Conversation","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":121,"indent":0,"parameters":[25,25,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Wood Tropper Conversation","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":121,"indent":0,"parameters":[26,26,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Drug Store","switchId":1,"trigger":0},
+{"id":11,"list":[{"code":121,"indent":0,"parameters":[27,27,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Drug Store Sign Conversation","switchId":1,"trigger":0},
+{"id":12,"list":[{"code":121,"indent":0,"parameters":[28,28,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Wagon Conversation","switchId":1,"trigger":0},
+{"id":13,"list":[{"code":121,"indent":0,"parameters":[29,29,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Buddah Conversation","switchId":1,"trigger":0},
+{"id":14,"list":[{"code":121,"indent":0,"parameters":[30,30,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Temple Gate Conversation","switchId":1,"trigger":0},
+{"id":15,"list":[{"code":121,"indent":0,"parameters":[31,31,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Fortune Teller Conversation","switchId":1,"trigger":0}
 ]
