@@ -1,5 +1,5 @@
 [
 null,
 {"id":1,"battlerName":"Song","characterIndex":0,"characterName":"Song_big_new","classId":1,"equips":[1,1,2,3,0],"faceIndex":6,"faceName":"8-character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Song","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Yi","characterIndex":0,"characterName":"bigger_Yi","classId":2,"equips":[2,1,2,3,4],"faceIndex":2,"faceName":"8-character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yi","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"Yi","characterIndex":0,"characterName":"Yi_Bigger_New","classId":2,"equips":[2,1,2,3,4],"faceIndex":2,"faceName":"8-character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yi","nickname":"","note":"","profile":""}
 ]
