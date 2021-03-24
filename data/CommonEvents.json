@@ -14,5 +14,6 @@ null,
 {"id":12,"list":[{"code":121,"indent":0,"parameters":[28,28,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Wagon Conversation","switchId":1,"trigger":0},
 {"id":13,"list":[{"code":121,"indent":0,"parameters":[29,29,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Buddah Conversation","switchId":1,"trigger":0},
 {"id":14,"list":[{"code":121,"indent":0,"parameters":[30,30,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Temple Gate Conversation","switchId":1,"trigger":0},
-{"id":15,"list":[{"code":121,"indent":0,"parameters":[31,31,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Fortune Teller Conversation","switchId":1,"trigger":0}
+{"id":15,"list":[{"code":121,"indent":0,"parameters":[31,31,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Fortune Teller Conversation","switchId":1,"trigger":0},
+{"id":16,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
