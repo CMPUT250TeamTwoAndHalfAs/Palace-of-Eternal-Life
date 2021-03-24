@@ -1,10 +1,11 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Bamboo_Village","order":4,"parentId":0,"scrollX":1622,"scrollY":1894},
-{"id":2,"expanded":false,"name":"Battle_Map","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":false,"name":"Bamboo_Village","order":4,"parentId":0,"scrollX":1614,"scrollY":1986},
+{"id":2,"expanded":false,"name":"Battle_Map","order":5,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":3,"expanded":false,"name":"Temple","order":3,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":4,"expanded":false,"name":"MAP004","order":6,"parentId":0,"scrollX":1638,"scrollY":906},
+{"id":4,"expanded":false,"name":"MAP004","order":6,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":5,"expanded":false,"name":"Bamboo Village","order":2,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":false,"name":"Sliding_Puzzle_Map","order":1,"parentId":0,"scrollX":1638,"scrollY":906},
-{"id":7,"expanded":false,"name":"Flaming Mountain","order":7,"parentId":0,"scrollX":2288,"scrollY":1358}
+{"id":7,"expanded":false,"name":"Flaming Mountain","order":7,"parentId":0,"scrollX":1800,"scrollY":1638},
+{"id":8,"expanded":false,"name":"Snowy Valley","order":8,"parentId":0,"scrollX":2309,"scrollY":553}
 ]
