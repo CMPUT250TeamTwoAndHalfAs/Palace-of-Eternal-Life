@@ -7305,7 +7305,7 @@ Weather.prototype._createBitmaps = function() {
     this._stormBitmap = new Bitmap(2, 100);
     this._stormBitmap.fillAll('white');
     this._snowBitmap = new Bitmap(9, 9);
-    this._snowBitmap.drawCircle(4, 4, 4, 'white');
+    this._snowBitmap.drawCircle(2, 2, 2, 'white');
 };
 
 /**
