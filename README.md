@@ -1,1 +1,1 @@
-This is the project for CMPUT250
+This is RPG game project for CMPUT250
