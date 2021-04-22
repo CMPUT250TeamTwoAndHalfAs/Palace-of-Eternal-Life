@@ -36,8 +36,6 @@
 
 [Gold Release (Download)](https://drive.google.com/file/d/1Ouw6k4ZjyDsNFXaB20hMJKp_KYuGNpQb/view?usp=sharing) <br>
 
-[Source Code (Github)](https://github.com/CMPUT250TeamTwoAndHalfAs/Palace-of-Eternal-Life)   <br>
-
 [Design Document](https://trello.com/25as/home) <br>
 
 ### Gold Walkthrough
