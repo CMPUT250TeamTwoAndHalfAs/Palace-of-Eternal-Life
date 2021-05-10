@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Song_Battle","characterIndex":0,"characterName":"so_n","classId":1,"equips":[1,1,2,3,0],"faceIndex":6,"faceName":"PartyLeader","traits":[],"initialLevel":1,"maxLevel":99,"name":"Song","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Yi_Battle","characterIndex":0,"characterName":"y_n","classId":2,"equips":[2,1,2,3,4],"faceIndex":2,"faceName":"8-character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yi","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Song_Battle","characterIndex":0,"characterName":"so_n","classId":1,"equips":[1,1,2,3,0],"faceIndex":6,"faceName":"PartyLeader","traits":[],"initialLevel":1,"maxLevel":99,"name":"Song","nickname":"","note":"footstep_sprite : FootStep","profile":""},
+{"id":2,"battlerName":"Yi_Battle","characterIndex":0,"characterName":"y_n","classId":2,"equips":[2,1,2,3,4],"faceIndex":2,"faceName":"8-character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yi","nickname":"","note":"footstep_sprite : FootStep","profile":""}
 ]
